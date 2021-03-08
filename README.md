@@ -3,3 +3,5 @@
 
 # Guess-Number-Mini-Game
 Basic Practice of Javascript like DOM click Events etc
+
+<a href ="https://guess-mini-game.netlify.app/">Demo</a>
